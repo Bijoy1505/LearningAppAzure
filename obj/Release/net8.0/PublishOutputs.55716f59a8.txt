@@ -1,0 +1,7 @@
+C:\Users\sarit\Desktop\dotnet_azure\LearningApp\bin\Publish\LearningApp.exe
+C:\Users\sarit\Desktop\dotnet_azure\LearningApp\bin\Publish\appsettings.Development.json
+C:\Users\sarit\Desktop\dotnet_azure\LearningApp\bin\Publish\appsettings.json
+C:\Users\sarit\Desktop\dotnet_azure\LearningApp\bin\Publish\LearningApp.dll
+C:\Users\sarit\Desktop\dotnet_azure\LearningApp\bin\Publish\LearningApp.deps.json
+C:\Users\sarit\Desktop\dotnet_azure\LearningApp\bin\Publish\LearningApp.runtimeconfig.json
+C:\Users\sarit\Desktop\dotnet_azure\LearningApp\bin\Publish\LearningApp.pdb
